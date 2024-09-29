@@ -1,0 +1,24 @@
+﻿# Visual Studio .vs folder
+.vs/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+Build/
+
+# User-specific files
+*.rsuser
+*.user
+*.suo
+*.userosscache
+*.userprefs
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# .NET directories
+**/bin/
+**/obj/
